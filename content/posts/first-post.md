@@ -11,4 +11,3 @@ This site is built using the [Hugo web framework](https://gohugo.io/) along with
 The purpose of this site is to organise (or potentially tangle up) my thoughts about various things, most likely tech based.
 
 The GitHub repository for this site is located here: https://github.com/chaz-n/chaz-blog
-
