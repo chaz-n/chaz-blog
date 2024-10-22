@@ -4,3 +4,35 @@ title = 'Chazybazy'
 theme = 'PaperModX'
 
 sectionPagesMenu = 'main'
+
+[params]
+    # [params.homeInfoParams]
+    #     Title = 'Hello there'
+    #     Content = 'Welcome to my blog!'
+
+[outputs]
+    home = [ "HTML", "RSS", "JSON" ]
+
+[[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts/"
+    weight = 1
+
+[[menu.main]]
+    identifier = "tags"
+    name = "Tags"
+    url = "/tags/"
+    weight = 2
+
+[[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 3
+
+[[menu.main]]
+    identifier = "search"
+    name = "Search"
+    url = "/search/"
+    weight = 4
