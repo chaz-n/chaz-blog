@@ -9,8 +9,4 @@ tags = []
 
 # Hello, welcome to my blog site!
 
-This site is built using the [Hugo web framework](https://gohugo.io/) along with the [PaperModX theme](https://github.com/reorx/hugo-PaperModX).
-
-The purpose of this site is to organise (or potentially tangle up) my thoughts about various things, most likely tech based.
-
-The GitHub repository for this site is located here: https://github.com/chaz-n/chaz-blog
+This site is built using the [Hugo web framework](https://gohugo.io/)
