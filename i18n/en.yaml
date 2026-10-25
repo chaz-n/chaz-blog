@@ -1,0 +1,5 @@
+error:
+  404_title: "Page Not Found"
+  404_error: "Error 404"
+  404_description: "It seems that the page you've requested does not exist."
+  404_home: "Take me home"
